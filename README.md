@@ -3,6 +3,4 @@ A redesign of a few features and functions of Central Washington University stud
 
 CS 446 User Interface Design, Spring 2019
 
-First project using JavaScript, HTML, and CSS
-
 Bootstrap
